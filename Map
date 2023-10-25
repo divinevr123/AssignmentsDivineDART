@@ -1,0 +1,7 @@
+void main()
+{
+    var abs = {'position1' : 'a','position2':'b'};
+    print(abs);
+
+    print(abs['position1']);
+}
